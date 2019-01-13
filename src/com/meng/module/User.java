@@ -7,6 +7,8 @@ public class User {
 	
 	private String userNo;
 	
+	private String addr;
+	
 	public int getId() {
 		return id;
 	}
